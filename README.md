@@ -1,14 +1,16 @@
 <p align="center">
-<img src="https://cdn.myanimelist.net/s/common/uploaded_files/1483519005-70d3aaaf1319a050f2c3ca2099881fa2.gif">
+<img src="https://avatars.githubusercontent.com/u/44070842?s=400&u=1f3ca9e5cade2637bf65955419d2fc5dfa16b890&v=4">
 </p>
 
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hi 👋</h2>
 
-I'm a 24 yo 🌱 software developer 💻
+I'm a 24 yo 🌱 graphics software developer 💻
 
-I’m currently learning 📖 all kind of things that have a GPU word inside ! More seriously I ❤️ games and I am facinated by computer graphics. I also love all kind of procedural algorithm like [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise) or [Marching Cube](https://en.wikipedia.org/wiki/Marching_cubes) that I have implemented and code optimizations. On my github you can found lot of things that have a relation with.
+I’m currently working at [Jusdeliens](https://jusdeliens.com/) where I code a lot of things for education 🏫 & robots 🤖.
 
-Actualy I learn (in my free time) a beautiful language named [Rust ❤️](https://www.rust-lang.org/) and make some computer graphics things with it and some crates (Rust libs).
+I ❤️ games and I am facinated by computer graphics. I also love all kind of procedural algorithm *(like [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise) or [Marching Cube](https://en.wikipedia.org/wiki/Marching_cubes)* and code optimizations. On this github you can found lot of things that have a relation with.
+
+Actualy I worked on a home made graphic engine named [GraphX](https://github.com/5aitama/GraphX) that was built on top of [WebGPU](https://github.com/gfx-rs/wgpu).
 
 <h2>Links</h2>
 <ul>
