@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Me.png">
+<img width="300"  src="Me.png" style="border-radius:5px">
 </p>
 
 <h2 align="center">Hi 👋</h2>
