@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋</h2>
 
-I'm a 27 yo 🌱 developer 💻
+I'm a 28 yo 🌱 developer 💻
 
 I ❤️ games and I am facinated by computer graphics. I also love all kind of procedural algorithm *(like [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise) or [Marching Cube](https://en.wikipedia.org/wiki/Marching_cubes)* and code optimizations. On this github you can found lot of things that have a relation with.
 
